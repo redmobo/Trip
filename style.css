@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#itinerary div {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+}
+
+#itinerary h2 {
+    color: #444;
+}
